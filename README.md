@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @didioos
 - 👀 I’m interested in Computer
-- 🌱 I’m currently learning Pyton, JavaScript, React, Node.js 
+- 🌱 I’m currently learning Pyton, JavaScript, React, Node.js and MongoDB
 - 💞️ I’m looking to collaborate on nothing AI will help me :p
 - 📫 How to reach me ...don't
 - ⚡ Fun fact: I'm still looking ....
